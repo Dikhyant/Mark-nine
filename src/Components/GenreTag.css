@@ -1,0 +1,22 @@
+.genre-tag {
+
+
+    color: white;
+    background-color: #005EB5;
+    text-align: center;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+
+    border-radius: 6px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.genre-tag:hover {
+    background-color: #00478a;
+    cursor: pointer;
+}

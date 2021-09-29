@@ -1,0 +1,32 @@
+.card {
+    display: flex;
+    width: 14rem;
+    height: 24rem;
+    flex-direction: column;
+    justify-content: center;
+
+    margin-top: 1rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+
+    box-shadow: 1px 1px rgb(141 141 141 / 50%) , -1px 1px rgb(141 141 141 / 50%);
+
+}
+
+.card-image-container {
+    flex: 1;
+    height: 18rem;
+    overflow: hidden;
+}
+
+.card-image-container .image {
+    width: 100%;
+    height: auto;
+}
+
+.card-title {
+    flex: 0.2;
+    text-align: center;
+    margin-top: 20%;
+}
