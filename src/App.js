@@ -72,14 +72,14 @@ function App() {
             left: "0rem",
             opacity: 0.7 , 
             width: "24rem"
-            }}  />
+            }} alt="not found"  />
           <img src={require("./Assets/Images/Witcher 3.png").default} style={{
             position: 'relative',
             top: "1rem",
             left: "29rem",
             opacity: 0.3 , 
             width: "40rem"
-            }}  />
+            }} alt="not found"  />
             <img src={require("./Assets/Images/Uncharted 4.jpg").default} style={{
             position: 'absolute',
             top: "0rem",
@@ -87,7 +87,7 @@ function App() {
             opacity: 1 , 
             width: "95rem",
             zIndex: -1
-            }}  />
+            }} alt="not found"  />
         </Route>
       </Switch>
     </div>

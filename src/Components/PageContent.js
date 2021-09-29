@@ -1,5 +1,4 @@
 import Card from "./Card";
-import DataForCards from "../Assets/DataForCards";
 import "./PageContent.css"
 
 const PageContent = (props) => {
